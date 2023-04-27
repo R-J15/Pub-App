@@ -20,7 +20,7 @@ st.markdown("""
         .stApp {
             background-color: rgba(255, 255, 255, 0.1);
         }
-    </style>pip
+    </style>
 """, unsafe_allow_html=True)
 
 
